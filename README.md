@@ -12,6 +12,8 @@ I'm a Computer Engineering student at Süleyman Demirel University.
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Linux](https://img.shields.io/badge/Linux-FFD700?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ## 📈 GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=BBakann&color=blue)
