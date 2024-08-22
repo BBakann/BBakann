@@ -24,3 +24,4 @@ I'm a Computer Engineering student at Süleyman Demirel University.
 ## 📫 How to reach me:
 - [Email](mailto:berdanbakan2@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/berdan-bakan-33a5112b8/)
+- https://bbakann.github.io/PersonalWebsite/
