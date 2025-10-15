@@ -19,6 +19,7 @@ I'm a Computer Engineering student at Süleyman Demirel University. My journey i
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)   
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![YOLO](https://img.shields.io/badge/YOLO-FF6A00?style=for-the-badge&logo=yolo&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 ###  Web Development  
@@ -29,12 +30,14 @@ I'm a Computer Engineering student at Süleyman Demirel University. My journey i
 ###  Frameworks  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)  
 
 ###  Databases & DevOps  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ###  Stacks  
 ![MERN](https://img.shields.io/badge/MERN-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -50,7 +53,8 @@ I'm a Computer Engineering student at Süleyman Demirel University. My journey i
 ##  Currently Learning  
 - Mobile development with React Native & Expo  
 - Backend development with Node.js & Express  
-- Full-Stack Development with MERN Stack (For Mobile with React Native*)
+- Full-Stack Development with MERN Stack (For Mobile with React Native*)  
+- **Next.js** (Server-side rendering, routing & performance optimizations)
 
 ---
 
